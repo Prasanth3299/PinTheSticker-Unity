@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: a4bd58c2370f74e919ce8cc81fae3873
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scrollView: {instanceID: 0}
+  - scrollContent: {instanceID: 0}
+  - scrollItemPrefab: {instanceID: 0}
+  - scrollItemPrefab2: {instanceID: 0}
+  - scrollView2: {instanceID: 0}
+  - scrollContent2: {instanceID: 0}
+  - faceImage: {instanceID: 0}
+  - hairBackImage: {instanceID: 0}
+  - hairFrontImage: {instanceID: 0}
+  - eyeImage: {instanceID: 0}
+  - lipImage: {instanceID: 0}
+  - noseImage: {instanceID: 0}
+  - earImage: {instanceID: 0}
+  - haribandImage: {instanceID: 0}
+  - capImage: {instanceID: 0}
+  - dressImage: {instanceID: 0}
+  - tiaraImage: {instanceID: 0}
+  - goggleImage: {instanceID: 0}
+  - mouchstacheImage: {instanceID: 0}
+  - beardImage: {instanceID: 0}
+  - letTestImage: {instanceID: 0}
+  - mirrorframeImage: {instanceID: 0}
+  - demoImage: {instanceID: 0}
+  - buttonSound1: {fileID: 8300000, guid: 3b667c9ba35524f65b2dd32ecb0bf6bf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 009dd7dacb04f40d685215b41c70eced
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scrollView: {instanceID: 0}
+  - nextButton: {instanceID: 0}
+  - prevButton: {instanceID: 0}
+  - mainFaceImage: {instanceID: 0}
+  - OffSprite: {fileID: 21300000, guid: e6ce6d72fabef4fddadf81e8f3866aa8, type: 3}
+  - OnSprite: {fileID: 21300000, guid: e61150a775aa57f4db91fb122c93cb14, type: 3}
+  - Backbutton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
